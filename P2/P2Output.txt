@@ -1,0 +1,57 @@
+
+Name           Salary
+----           ------
+Min Tuyet     120000
+Seth Carney     100000
+Chad Moore     100000
+Darren Lehmann     88000
+Graeme Dilly     120000
+John Bracewell     100000
+Gavin Larson     80000
+Philip Richards     80000
+Ricky Ponting     132000
+Richard Ellison     100000
+
+
+Total of all salaries: 1020000
+
+StudentID           Classification           MentorID           GPA
+---------           --------------           --------           ---
+956234659           Senior                 997111094           4.0
+164776911           Junior                 201586985           4.0
+191083779           Senior                 685744439           4.0
+212976207           Freshman                 555010131           4.0
+907425648           Sophomore                 555010131           4.0
+952145559           Sophomore                 836826630           4.0
+712524758           Freshman                 555010131           4.0
+812073765           Senior                 386167477           4.0
+712952591           Junior                 463249547           3.98
+973071948           Freshman                 466388906           3.98
+483223789           Sophomore                 555010131           3.96
+328718420           Sophomore                 997111094           3.96
+916916939           Junior                 696335701           3.9
+273277984           Sophomore                 386167477           3.9
+696302689           Junior                 463249547           3.9
+477453864           Freshman                 961874958           3.9
+876550324           Freshman                 836826630           3.89
+466094162           Senior                 555010131           3.89
+803024290           Sophomore                 997111094           3.89
+432180765           Freshman                 201586985           3.89
+
+
+
+Name           Salary
+----           ------
+Min Tuyet   134784
+Seth Carney   116600
+Chad Moore   108000
+Darren Lehmann   91520
+Graeme Dilly   145517
+John Bracewell   110000
+Gavin Larson   86400
+Philip Richards   88192
+Ricky Ponting   137280
+Richard Ellison   116600
+
+
+Total of all salaries: 1134893
